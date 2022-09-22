@@ -9,7 +9,7 @@ Or
 
 # Personal Webpage
 
-Ex: RAxxxxxxxxxxxxx - URL 
+Push a readme file mentioning your name and e-portfolio URL (Ex: RAxxxxxxxxxxxxx_URL) 
 
 
 
